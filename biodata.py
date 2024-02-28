@@ -1,0 +1,12 @@
+name = "friska"
+age = "17"
+major = "informatic engineering"
+live = "cibadak"
+hobby = "running"
+gender = "female"
+print("my name is =",name)
+print("my age =", age)
+print("my major =", major)
+print("i live in =", live)
+print("my hobby =", hobby)
+print("my gender =", gender)
